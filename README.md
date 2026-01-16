@@ -74,6 +74,13 @@ These metrics help understand how well the classifier predicts unseen data.
 - Feature importance analysis
 
 ---
+## 📁 Dataset
+- **Name:** Lung Cancer Dataset
+- **Format:** CSV
+- **Usage:** Used as raw input for training and evaluating the decision tree classifier
+- **Note:** Dataset is included in this repository for reproducibility
+
+---
 
 ## 👤 Author
 **Abdulla Basheer**  
