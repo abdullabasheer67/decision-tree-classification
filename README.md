@@ -1,4 +1,6 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/abdullabasheer67/DECISION-TREE/blob/main/decision_tree_01.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/abdullabasheer67/decision-tree-classification/blob/main/decision_tree_01.ipynb)
+
+/blob/main/decision_tree_01.ipynb)
 # 🌳 Decision Tree Classification – Machine Learning Project
 
 This project demonstrates the implementation of a **Decision Tree Classifier** using **scikit-learn**.  
